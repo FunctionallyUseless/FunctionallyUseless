@@ -7,3 +7,4 @@ Based in 🇸🇪, previously 🇬🇧 and 🇺🇸🌁
 In my spare time I love 🥋, 🎮, 🏃, 🏋🏼‍♀️, and 👨🏻‍🍳
 
 Not on social media, but my email is in this repos github action 🤫
+ 
