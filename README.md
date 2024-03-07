@@ -1,6 +1,6 @@
 ### Hej there 👋
 
-I am a Pythonista with a focus on test automation, infrastructure, and fan of all things that makes software work 👨‍💻. 
+I am a Pythonista 🐍 with a focus on test automation 🧪, infrastructure ⚙️, and fan of all things that makes software work correctly 👨‍💻. 
 
 Based in 🇸🇪. Previously 🇬🇧 and 🇺🇸🌁.
 
